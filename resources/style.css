@@ -145,8 +145,11 @@ header nav {
 /* Footer */
 
 footer {
+  right: 0;
+  left: 0;
 
-
+  position: absolute;
+  bottom: 0;
   height: 200px;
 
   margin: 0 auto;
