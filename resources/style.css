@@ -113,19 +113,14 @@ header nav {
 }
 
 .locations h2 {
-
-  text-align: center;
-  font-family: "Georgia", serif;
-  font-size: 16px;
-  font-weight: bold;
-  color: white;
-  margin-top: 100px;
+  
+  top: 30px;
 }
 
 .Location-Square {
   display: flex;
   justify-content: space-between;
-
+  position: absolute;
 }
 
 
